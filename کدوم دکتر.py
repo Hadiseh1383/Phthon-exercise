@@ -3,7 +3,7 @@ def made(n):
 a=input( ) 
 b=input( ) 
 ba=str(made(a))
-bb=str(made(b)) 
+bb=str(made(b))
 ba= (str(10**(100-len(ba)))+ba)
 num = 0
 bb =(str(10**(100-len(bb)))+bb)
